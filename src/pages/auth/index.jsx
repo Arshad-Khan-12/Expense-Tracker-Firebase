@@ -6,7 +6,7 @@ export const Auth = () => {
   const signInWithGoogle = async () => {
     const results = await signInWithPopup(auth, provider);
     const authInfo = {
-      userId: results.user.uid,
+      userID: results.user.uid,
       userName: results.user.displayName,
       userEmail: results.user.email,
       profilePhoto: results.user.photoURL,
