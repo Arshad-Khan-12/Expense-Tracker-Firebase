@@ -4,7 +4,10 @@ A React-based web app to track incomes and expenses, featuring Google Sign-In an
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Website Screenshot](https://github.com/user-attachments/assets/be9dfd7c-826a-439a-9e53-26e83c0d4b99)
+
+![Website Screenshot](https://github.com/user-attachments/assets/223214a5-df21-4c91-ae82-3a0911d28a23)
+
 
 # Expense Tracker
 
@@ -12,7 +15,7 @@ A React-based web app to track incomes and expenses, featuring Google Sign-In an
 
 You can view a live demo of the Expense Tracker app here:
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://expense-tracker-012.netlify.app/)
 
 Alternatively, here's a short GIF showcasing the app in action:
 
