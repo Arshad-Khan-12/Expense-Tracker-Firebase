@@ -6,7 +6,6 @@ import { Tracker } from "./pages/tracker/index";
 function App() {
   return (
     <div className="App">
-      <h1>Expense Tracker</h1>
       <Router>
         <Routes>
           <Route path="/" exact element={<Auth />} />
