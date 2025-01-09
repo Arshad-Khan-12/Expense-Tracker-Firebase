@@ -10,13 +10,15 @@ You can view a live demo of the Expense Tracker app here:
 
 ## Screenshots
 
-![Website Screenshot](https://github.com/user-attachments/assets/be9dfd7c-826a-439a-9e53-26e83c0d4b99)
+![Website Screenshot](https://github.com/user-attachments/assets/08164ac0-1528-4029-906e-35968de55b5d)
 
-![Website Screenshot](https://github.com/user-attachments/assets/223214a5-df21-4c91-ae82-3a0911d28a23)
+![Website Screenshot](https://github.com/user-attachments/assets/bdae8f12-679a-4eee-966a-9bd7fabc011a)
+
+![Website Screenshot](https://github.com/user-attachments/assets/93915fde-2b01-48b3-a73d-491c70fd1c76)
 
 Alternatively, here's a short GIF showcasing the app in action:
 
-![Demo GIF](https://your-image-link.com/demo.gif)
+![Demo GIF](/public/video.gif)
 
 ## Tech Stack
 
