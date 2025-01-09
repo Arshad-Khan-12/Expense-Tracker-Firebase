@@ -27,11 +27,14 @@ export const Auth = () => {
   }
 
   return (
-    <div className="container">
-      <div className="login">
+    <div className="containe flex items-center justify-center min-h-screen text-center  w-full">
+      <div className="login w-full max-w-md p-5 rounded-lg shadow-lg bg-white bg-opacity-60 backdrop-blur-lg border border-gray-300">
         <h2>Sign in to continue</h2>
-        <button className="login-button" onClick={signInWithGoogle}>
-          <div className="btn">
+        <button
+          className="login-button w-1/2 mt-3 p-2 rounded bg-gray-200 text-gray-700 font-semibold transition-all duration-300 hover:bg-gray-700 hover:text-white"
+          onClick={signInWithGoogle}
+        >
+          <div className="btn flex flex-col items-center">
             <img
               width="48"
               height="48"

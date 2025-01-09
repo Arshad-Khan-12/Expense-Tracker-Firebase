@@ -1,6 +1,6 @@
 import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { Auth } from "./pages/auth/index";
+import { Auth } from "./pages/auth";
 import { Tracker } from "./pages/tracker/index";
 
 function App() {
